@@ -1,0 +1,6 @@
+RECS_SERVICE_URL = "http://127.0.0.1:8000"
+RECS_ONLINE_SERVICE_URL = "http://127.0.0.1:8010"
+EVENTS_SERVICE_URL = "http://127.0.0.1:8020"
+PERSONAL_RECS_PATH = "data/recommendations.parquet"
+DEFAULT_RECS_PATH = "data/top_popular.parquet"
+ONLINE_RECS_PATH = "data/similar.parquet"
